@@ -47,5 +47,5 @@ O Modelo Cynefin é uma estrutura conceitual usada para auxiliar na tomada de de
 
 ![image](https://user-images.githubusercontent.com/52088444/216338952-0959f19a-7fc1-4288-a2de-fc008397ece9.png)
 
-
+Cynefyn é um modelo sense -making(percepção/entender o ambiente), não é um modelo de categorização. A diferença entre o modelo de categorização e o cynefin é que o modelo de categorização, é que você caiu em uma determinada categoria e segue aquilo mesmo, já no caso do sense  
 
