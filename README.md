@@ -21,5 +21,14 @@ Sua principal característica é a divisão das tarefas em etapas predeterminada
 Esse modelo é altamente preditivo, tem foco em planos detalhados definidos no princípio do projeto, tais como custo, escopo e cronograma, mudanças geralmente são indesejadas.
 
 
+# Modelo Ágil
 
+Desde o começo da história do desenvolvimento de software a comparação com a construção civil foi largamente utilizada para descrever esse tipo de projeto. 
+Mas, a natureza dos projetos de construção e desenvolvimento de software são diferentes, pois no caso do desenvolvimento de software o cliente chega com um desejo e não sabe exatamente expressá-lo, ele tem uma ideia na cabeça mas não consegue colocá-la no papel, isso acontece por que o software é por definição intangível, ou seja se utilizarmos o modelo cascata no desenvolvimento de software o cliente só tem a verdadeira noção do que pediu no final do projeto. 
+
+Para evitar problemas quanto a entrega do software podemos seguir o seguinte ciclo de vida.
+
+![image](https://user-images.githubusercontent.com/52088444/216335532-f3b1af79-8890-41fe-81d0-ed7458ba258e.png)
+
+![image](https://user-images.githubusercontent.com/52088444/216332454-98aa9ef2-e974-43ca-b5ef-2b54cea60138.png)
 
