@@ -58,7 +58,7 @@ sinto - categorizo - tenho um plano/modelo - construo.
 Domínio "Complicado" é uma coisa que você conhece, mas que você precisa de habilidades analíticas(analiticals skills) por que embora seja conhecido ele é algo dificil.
 Exemplo construção de um prédio, eu preciso de habilidades analíticas, eu preciso de especialistas, e quando eu chego nesses especialistas, eu tenho good pratice(existem diferentes maneiras de voc~e construir um prédio de alto padrão)
 
-Domínio "Complexo" , é complexo quando não existem boas práticas, inventar algumas coisas novas, emergentes, posso usar abordagem ágil, abordagem híbrida para lidar com a complexidade, Aqui nós precisamos -> SENSE - RESPOND.
+Domínio "Complexo" , é complexo quando não existem boas práticas, inventar algumas coisas novas, emergentes, posso usar abordagem ágil, abordagem híbrida para lidar com a complexidade, Aqui nós precisamos -> PROBE(sonda)-SENSE - RESPOND.
 
 Domínio "Caótico" quando pensamos em ambientes caóticos/projetos caóticos aqui nós precisamos agir e depois verificar o resultado.
 ACT - SENSE - RESPONSE
