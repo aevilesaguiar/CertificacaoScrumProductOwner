@@ -1,4 +1,4 @@
-# Cynefin
+# Cynefin Framework
 
 O Modelo Cynefin é uma estrutura conceitual usada para auxiliar na tomada de decisões. Criado em 1999 por Dave Snowden, quando trabalhou para o IBM Global Services. O modelo ajuda a entender o contexto dos problemas e então determinar uma melhor abordagem para a solução do mesmo. O Cynefin se baseia no contexto predominante em cada ambiente, através da natureza da relação entre causa e efeito dos eventos que ali ocorrem. Com base nisso, foram identificados quatro tipos diferentes de contextos: simples, complicado, complexo e caótico.
 
@@ -41,10 +41,12 @@ O Ciclo OODA, como mencionamos, é uma ferramenta de tomada rápida de decisão.
 
 o ciclo OODA apresenta quatro etapas:
 
-    - Observar: significa entender o contexto em que uma pessoa se encontra e tem como objetivo ter uma visão ampla do exterior. Para uma organização, esta etapa fala sobre estudo de concorrência, lacunas de mercado, tendências e tecnologias disponíveis.
-    - Orientar: depois de observar o ambiente, a etapa de orientação fala sobre possíveis soluções. Ou seja, aqui vale a análise de dados e fatos, além de experimentações e testes.
-    - Decidir: após ter listadas as possíveis soluções, a terceira etapa é a escolha do melhor caminho pelo qual seguir. O ideal é escolher a solução mais adequada ao contexto. Pode ser que a solução escolhida traga mais de uma ação, então é preciso entender qual é o valor de cada uma e se o contexto demanda que elas sejam tomadas em conjunto.
-    - Agir: esta é a hora de colocar a mão na massa e aplicar a solução decidida no passo anterior. 
+    - Observar(disciplina e diligência): significa entender o contexto em que uma pessoa se encontra e tem como objetivo ter uma visão ampla do exterior. Para uma organização, esta etapa fala sobre estudo de concorrência, lacunas de mercado, tendências e tecnologias disponíveis.
+    - Orientar(cultura, fatores genéticos, esperiencia, analise sintese"desenhar"): depois de observar o ambiente, a etapa de orientação fala sobre possíveis soluções. Ou seja, aqui vale a análise de dados e fatos, além de experimentações e testes.
+    - Decidir(montar um check list, priorize): após ter listadas as possíveis soluções, a terceira etapa é a escolha do melhor caminho pelo qual seguir. O ideal é escolher a solução mais adequada ao contexto. Pode ser que a solução escolhida traga mais de uma ação, então é preciso entender qual é o valor de cada uma e se o contexto demanda que elas sejam tomadas em conjunto.
+    - Agir(ação " ação se move a coletar mais informações"): esta é a hora de colocar a mão na massa e aplicar a solução decidida no passo anterior. 
+
+OODA looping roda com foco total, observou e executou, mesmo que depois tenha que reorientar.
 
 Isso significa que, diante de uma situação de urgência, uma pessoa deve observar o contexto em que está inserido, orientar-se sobre as soluções disponíveis, decidir qual vai seguir e tomar ação de acordo com a decisão escolhida. 
 
@@ -63,7 +65,6 @@ Por isso, se você tiver que tomar uma decisão para sua vida ou dentro da empre
 
 
 - Modelo NTPC (“abordagem diamante”)
-
 Shenhar e Dvir (2007) partiram da Teoria da Contingência da Inovação de modo a entender os meios pelos quais
 as organizações poderiam classificar seus projetos. Propuseram posteriormente a classificação dos projetos em
 quatro níveis de incerteza tecnológica, variando de baixa (low-tech) a super alta (super high-tech), e três níveis
@@ -87,6 +88,61 @@ das ferramentas (SHENHAR & DVIR, 2007).
 
 ![image](https://user-images.githubusercontent.com/52088444/216612227-7c69b283-1f93-49de-8e6a-5e4138b52756.png)
 ![image](https://user-images.githubusercontent.com/52088444/216612865-1bc7f000-9778-4318-b6bf-7949e7539003.png)
+
+
+## Como gerenciar Projetos Complexos(Crise)?
+
+O projeto complexo tem várias interfaces, Exmplo: rh, fabrica e stakeholders.
+Problema não definido/conhecido.
+Com projetos complexos precisamos criar probes(protótipos...)
+assesment
+RFP(REQUISITOS LEVANTADOS)
+LEAN INCEPTION
+LEAN STARTUP(ideias de criar produtos/processos de uma maneira ágil)
+
+Projetos complexos possuem muitas variáveis, temos muitas respostas.
+Na área do domínio complexo existem muitas prototipações.
+
+visão(exemplo refinaria, personas quem irá consumir mapa da empatia, entender os stakeholders), produtos, features(priorizar )
+
+Precisamos definir em que momento estamos no projeto, e depois de fazer o PROBE- SENSE - RESPONSE, E pode ser que o domínio não seja tão complexo, pode ser simples ou complicado. Mas mesmo após o PROBE podemos ver que ele ainda é complexo.
+
+PRINCE 2 AGILE. 
+
+## Como gerenciar Projetos Complicados?
+
+Projeto grande, com dimensão, precisamos de especialistas, precisamos analisar os dados.
+Nesse tipo de projeto é indicado usar uma abordagem tradicional, é indicado usar PRINCE2( trás a parte de governança) em grandes projetos, PMBOK.
+Precisamos usar uma abordagem tradicional devido o mesmo necessitar de muita documentação, sistema de documentação, sequenciamento de tarefas...
+Tradicional é que nós temos uma WBS(Estrutura analitica do projeto) que nos permite dividir as entregas em partes menores, e temos um cronograma.
+
+Podemos usar abordagens híbridas. Mas projetos complicados precisa de cronograma.
+System engineering (incose.org)
+Posso dividir um projeto complicado em menores projetos.
+
+Precisa fazer gerenciamento de custo, gerenciamento financeiro, fluxo de caixa.
+
+
+
+## Como gerenciar Projetos Simples?
+
+São projetos óbvios, mas que precisa ser gerenciado. E esses projetos pequenos são os mais propensos a terem erros, ou seja pode ter mais fracasso.
+
+Os projetos pequenos não tem apoio , não tem atenção, não tem pessoas qualificadas, não tem disciplina de execução...
+
+Para gerenciar um projeto simples, precisamos ter um plano (em apenas uma página, PM Canvas), gestão visual(ppt), disciplina outlook,
+
+## Disciplinas sempre presentes nos projetos
+
+Bussiness analisys - BA (analise de negócios):definição de problema/ necessidade, requisitos, stakeholders
+Managment Project - PM:a administração preocupada com a eficiencia, garantir que vamos entregar na data.
+System Engineering SE:solução, arquitetura do produto/serviço, arquitetura do resultado final.(visão gerecial integradora), precismos ter um termo de abertura, um objetivo smart, plano(eap, cronograma, recurso, comunicação, riscos...), crie um ritmo de projeto, senão ele será esquecido, será um fracasso. O encerramento do projeto é muito importante, deve ser formamente senão se tornará um projeto zumbi.
+
+(APRENDER GERENCIAR PROJETOS SIMPLES, NÃO ESQUECER DE VOLTAR NO BÁSICO)
+
+
+
+
 
 
 ## Referencias
