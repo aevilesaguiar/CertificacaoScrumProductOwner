@@ -48,6 +48,20 @@ o ciclo OODA apresenta quatro etapas:
 
 Isso significa que, diante de uma situação de urgência, uma pessoa deve observar o contexto em que está inserido, orientar-se sobre as soluções disponíveis, decidir qual vai seguir e tomar ação de acordo com a decisão escolhida. 
 
+Por exemplo, se você suspeita que está sendo seguido ou que sua casa será invadida. O ciclo OODA é ótimo para tomar decisões em situações estressantes. 
+
+E embora tenhamos apresentado diversas vantagens do ciclo OODA neste artigo, é preciso tomar cuidado com sua aplicação porque ele não funciona em todas as situações. 
+
+Como percebido, este é um modelo que leva em consideração um ambiente estressante, caótico e urgente como é um conflito, então a ideia é que você utilize o ciclo em situações deste porte. 
+De maneira geral, o que o ciclo OODA gera é uma decisão sub-ótima. 
+
+Isso significa que ele gera uma decisão adequada para aquela situação, mas se o piloto tivesse mais tempo para pensar, talvez não tivesse tomado a decisão que tomou. 
+
+O que estamos querendo dizer com isso é que o ciclo OODA não deve ser aplicado em situações comuns. Isso porque ele não vai gerar a solução mais adequada, apenas uma sub-ótima. 
+
+Por isso, se você tiver que tomar uma decisão para sua vida ou dentro da empresa em que trabalha, e o seu contexto não é caótico ou urgente, não utilize o ciclo OODA.
+
+
 - Modelo NTPC (“abordagem diamante”)
 
 Shenhar e Dvir (2007) partiram da Teoria da Contingência da Inovação de modo a entender os meios pelos quais
